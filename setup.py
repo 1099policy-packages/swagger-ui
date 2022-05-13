@@ -19,7 +19,7 @@ setup(
     license='Apache License 2.0',
     packages=find_packages(),
     package_data={
-        'src': ['static/*', 'templates/*'],
+        't99': ['swagger/static/*', 'swagger/templates/*'],
     },
     install_requires=[
         "jinja2>=2.0",

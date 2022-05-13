@@ -1,5 +1,5 @@
-from core import ApplicationDocument
-from masonite import handler
+from .core import ApplicationDocument
+from .masonite import handler
 
 
 class SwaggerUI:
